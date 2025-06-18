@@ -121,11 +121,11 @@ hr {
 }
 
 .stack_data #last_pushed_stack_btn {
-    margin-left: 1.1rem;
+    margin-left: 1.2rem;
 }
 
 .stack_data #last_popped_stack_btn {
-    margin-left: 1.1rem;
+    margin-left: 1.2rem;
 }
 
 .stack_data #size_of_stack_data {
